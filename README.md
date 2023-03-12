@@ -13,7 +13,7 @@ Write a C program to input marks of two subjects. Calculate and print the averag
 
 Program File - [Tute01.c](Tute01.c)
  
-## Exercise 2 - Selection
+## Exercise 2 - Selection 
 
 Write a program to calculate the amount to be paid for a rented vehicle.
 
