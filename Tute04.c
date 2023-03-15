@@ -5,6 +5,7 @@ Implement the three functions minimum(), maximum() and multiply() below the main
 Do not change the code given in the main() function when you are implementing your solution.*/
 
 #include <stdio.h>
+//function declaration
 int minimum(int num1, int num2);
 int maximum(int num1, int num2);
 int multiply(int num1, int num2);
